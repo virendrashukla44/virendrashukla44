@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **(DSA) Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **MySQL, MongoDB and Django**
+- 🌱 I’m currently learning **React, **
 
 - 💬 Ask me about **Responsive Web Design**
 
